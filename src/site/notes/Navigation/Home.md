@@ -3,5 +3,151 @@
 ---
 
 
-Welcome :)
-test test test
+# Welcome!
+Enjoy my scuffed notes/personal Soulframe Wiki
+
+#### Universe:
+	Characters and Factions
+		[[Universe/Characters/Alca/Gods of Alca/Alca\|Alca]]
+			[[Universe/Factions and Species/Alca's Children\|Alca's Children]]
+				[[Universe/Factions and Species/Sproutfolk\|Sproutfolk]]
+					[[Universe/Characters/Alca/Alca's Children/Sproutfolk/Avakot\|Avakot]]
+					[[Universe/The World of Alca/Festivals/Bita's Eve\|Bita's Eve]] Legends
+						[[Universe/Characters/Alca/Alca's Children/Sproutfolk/Bita's Eve legends/Crone Curcubita\|Crone Curcubita]]
+						[[Universe/Characters/Alca/Alca's Children/Sproutfolk/Bita's Eve legends/Lil' Zook\|Lil' Zook]]
+						[[Universe/Characters/Alca/Alca's Children/Sproutfolk/Bita's Eve legends/Poppa Pepo\|Poppa Pepo]]
+			[[Universe/Locations/Dendria\|Dendria]]
+				[[Clan Kane\|Clan Kane]] and the [[Universe/Factions and Species/Steelsinger's Guild\|Steelsinger's Guild]]
+					[[Universe/Characters/Alca/Dendria/Clan Kane/Steelsinger Kane\|Steelsinger Kane]]
+					[[Universe/Characters/Alca/Dendria/Clan Kane/Tuvalkane\|Tuvalkane]]
+				[[Universe/Factions and Species/Clan Jotar\|Clan Jotar]] and the [[Universe/Factions and Species/Kith of Kings\|Kith of Kings]]
+					[[Universe/Characters/Alca/Dendria/Clan Jotar/Child-Queen Muireall Jotar\|Child-Queen Muireall Jotar]]
+					[[Universe/Characters/Alca/Dendria/Clan Jotar/Fenn Jotar\|Fenn Jotar]]
+					[[Universe/Characters/Alca/Dendria/Clan Jotar/Karlik the Torrid\|Karlik the Torrid]]
+					[[Universe/Characters/Alca/Dendria/Clan Jotar/The Circade\|The Circade]]
+				[[Universe/Factions and Species/Knightmaidens\|Knightmaidens]] and [[Universe/Factions and Species/The Silent Rose\|The Silent Rose]]
+					[[Universe/Characters/Alca/Dendria/Knightmaidens/Lady Deora\|Lady Deora]]
+				[[Universe/Factions and Species/The Pensives\|The Pensives]]
+					[[Universe/Characters/Alca/Dendria/The Pensives/Orlick\|Orlick]]
+				[[Universe/Characters/Alca/Dendria/Mother\|Mother]]
+			[[Universe/Factions and Species/Fey\|Fey]] and Fey-kin
+				[[Universe/Factions and Species/Envoy\|Envoy]]s
+					[[Universe/Characters/Alca/Fey and Fey-kin/Envoys/The Envoy\|The Envoy]]
+					[[Universe/Characters/Alca/Fey and Fey-kin/Envoys/Bayor\|Bayor]]
+					[[Universe/Characters/Alca/Fey and Fey-kin/Envoys/Grandfather\|Grandfather]]
+					[[Universe/Characters/Alca/Fey and Fey-kin/Envoys/Oscelda\|Oscelda]]
+					[[Universe/Characters/Alca/Fey and Fey-kin/Envoys/Sirin\|Sirin]]
+					[[Universe/Factions and Species/Solist Warrior\|Solist Warrior]]s
+						[[Universe/Characters/Alca/Fey and Fey-kin/Envoys/Tethren\|Tethren]]
+				[[Universe/Characters/Alca/Fey and Fey-kin/Empress Alora\|Empress Alora]]
+				[[Universe/Characters/Alca/Fey and Fey-kin/Pothus\|Pothus]]
+			Gods of Alca
+				[[Universe/Characters/Alca/Gods of Alca/Alca\|Alca]]
+				[[Universe/Characters/Alca/Gods of Alca/Iridis\|Iridis]]
+				[[Universe/Characters/Alca/Gods of Alca/Mora\|Mora]]
+				[[Universe/Characters/Alca/Gods of Alca/Saphene\|Saphene]]
+				[[Universe/Characters/Alca/Gods of Alca/The Great Spyder\|The Great Spyder]]
+			[[Universe/Factions and Species/Omen Beast\|Omen Beast]]s
+				[[Universe/Characters/Alca/Omen Beasts/Bromius\|Bromius]]
+				[[Universe/Characters/Alca/Omen Beasts/Garren Rood\|Garren Rood]]
+				[[Universe/Characters/Alca/Omen Beasts/Orengall\|Orengall]]
+			[[Universe/Factions and Species/The Cardinals\|The Cardinals]]
+			[[Universe/Factions and Species/Mendicant\|Mendicant]]
+				[[Universe/Characters/Mendicant/Mendicant King\|Mendicant King]]
+				[[Universe/Characters/Mendicant/Wazzard of the Wastes\|Wazzard of the Wastes]]
+			[[Universe/Factions and Species/Aureli jardiniers\|Aureli jardiniers]]
+			[[Universe/Factions and Species/Longnight Elder\|Longnight Elder]]s
+		[[Universe/Factions and Species/Mockery\|Mockery]]
+			[[Universe/Characters/Mockeries/Eedred Ilk\|Eedred Ilk]]
+		The [[Universe/Factions and Species/Ode\|Ode]]
+			Lord [[Universe/Characters/Ode'n/Synod\|Synod]]
+				The [[Universe/Factions and Species/Sinecure\|Sinecure]]
+					The [[Universe/Characters/Ode'n/Sinecure/Nimrod\|Nimrod]]s
+					[[Universe/Enemies/Gruul-Seekers\|Gruul-Seekers]]
+					[[Universe/Enemies/Thawtide Hunter\|Thawtide Hunter]]s
+			The [[Universe/Factions and Species/Thrall\|Thrall]]s
+				[[Universe/Factions and Species/Tempest\|Tempest]]
+					[[Universe/Factions and Species/Tempest Extractors\|Tempest Extractors]]
+				[[Universe/Factions and Species/Forgetfire\|Forgetfire]]
+		[[Universe/Factions and Species/Cassid\|Cassid]]
+			[[Universe/Characters/Cassid/Napo Agnes\|Napo Agnes]]
+	The World of [[Universe/Characters/Alca/Gods of Alca/Alca\|Alca]]
+		Locations
+			[[Universe/Locations/Dendria\|Dendria]]
+				The Kingdom of [[Universe/Locations/Midrath\|Midrath]]
+					[[Universe/Locations/Curlail\|Curlail]]
+					[[Universe/Locations/Dermak Undercity\|Dermak Undercity]]
+				[[Universe/Locations/Andurin Glades\|Andurin Glades]]
+				[[Universe/Locations/Hillyden\|Hillyden]]
+				[[Universe/Locations/Neath'uns\|Neath'uns]]
+				[[Universe/Locations/The Wastegraves\|The Wastegraves]]
+				[[Universe/Locations/Wevetwood\|Wevetwood]]
+			[[Universe/Locations/Kearnhold\|Kearnhold]]
+			[[Universe/Locations/Skelfland\|Skelfland]]
+		Magicks
+			Virtues
+				[[Universe/The World of Alca/Magicks/Virtues/Courage\|Courage]]
+				[[Universe/The World of Alca/Magicks/Virtues/Grace\|Grace]]
+				[[Universe/The World of Alca/Magicks/Virtues/Spirit\|Spirit]]
+			[[Universe/The World of Alca/Magicks/Spectral Sight\|Spectral Sight]]
+			[[Universe/The World of Alca/Magicks/The Nightfold\|The Nightfold]]
+			The [[Universe/The World of Alca/Magicks/Wyld\|Wyld]]
+		Festivals
+			[[Universe/The World of Alca/Festivals/Bita's Eve\|Bita's Eve]]
+			[[Universe/The World of Alca/Festivals/Thawtide\|Thawtide]]
+		[[Universe/The World of Alca/Dracs\|Dracs]]
+		[[Universe/The World of Alca/Eldveil\|Eldveil]]
+		[[Universe/The World of Alca/Longnight\|Longnight]]
+		[[Universe/The World of Alca/Silvern\|Silvern]]
+		[[Universe/The World of Alca/Voicing Trees\|Voicing Trees]]
+	The World of [[Universe/Factions and Species/Ode\|Ode]]
+		[[Universe/Factions and Species/Ode\|Ode]]'n Tech
+			[[Universe/The World of Ode/Ode'n Tech/Collector\|Collector]]
+			[[Universe/The World of Ode/Ode'n Tech/Ichor\|Ichor]]
+			[[Universe/The World of Ode/Ode'n Tech/Skytower\|Skytower]]
+			[[Universe/The World of Ode/Ode'n Tech/Weatherer\|Weatherer]]
+		Ode'n Constellations and Stars
+			[[Universe/The World of Ode/Culveer\|Culveer]]
+			[[Universe/The World of Ode/Sidea\|Sidea]]
+			[[Universe/The World of Ode/Volhal\|Volhal]]
+			[[Universe/The World of Ode/Kur\|Kur]]
+		[[Universe/The World of Ode/Gruul\|Gruul]](?)
+	Events and History
+		[[Universe/Events/The Felling\|The Felling]]
+			[[Universe/Events/The Fonnish Charge\|The Fonnish Charge]]
+			[[Universe/Events/The Dread Song\|The Dread Song]]
+		[[Universe/Events/Lightless Era\|Lightless Era]]
+#### Fables, Items, and Songs:
+	Fables
+		[[Universe/Fables/1 - Warsongs\|1 - Warsongs]]
+		[[Universe/Fables/2 - Rise, Envoy\|2 - Rise, Envoy]]
+		[[Universe/Fables/3 - The Last Pensive\|3 - The Last Pensive]]
+		[[Universe/Fables/4 - The Torment Stag\|4 - The Torment Stag]]
+		[[Universe/Fables/5 - An Invitation\|5 - An Invitation]]
+	Items
+		Armor
+			[[Universe/Items and Equipment/Armor/Arbearer's Mask\|Arbearer's Mask]], [[Universe/Items and Equipment/Armor/Arbearer's Braes\|Arbearer's Braes]], [[Universe/Items and Equipment/Armor/Arbearer's Pauncher\|Arbearer's Pauncher]]
+			[[Universe/Items and Equipment/Armor/Armet of Orengall\|Armet of Orengall]], [[Universe/Items and Equipment/Armor/Orengall's Greaves\|Orengall's Greaves]], [[Universe/Items and Equipment/Armor/Orengall's Cuirass\|Orengall's Cuirass]]
+			[[Universe/Items and Equipment/Armor/Garren's Crown of Grace\|Garren's Crown of Grace]], [[Universe/Items and Equipment/Armor/Garren's Cloven Hosen\|Garren's Cloven Hosen]], [[Universe/Items and Equipment/Armor/Regalia of Garren Rood\|Regalia of Garren Rood]]
+			[[Universe/Items and Equipment/Armor/Sirin's Shroud\|Sirin's Shroud]], [[Universe/Items and Equipment/Armor/Sirin's Stalks\|Sirin's Stalks]], [[Universe/Items and Equipment/Armor/Sirin's Plainhide\|Sirin's Plainhide]]
+			[[Universe/Items and Equipment/Armor/Wyld Sirin's Feignmask\|Wyld Sirin's Feignmask]], [[Universe/Items and Equipment/Armor/Wyld Sirin Wevetbelt\|Wyld Sirin Wevetbelt]], [[Universe/Items and Equipment/Armor/Wyld Sirin Finery\|Wyld Sirin Finery]]
+			[[Universe/Items and Equipment/Armor/Tethren's Cap\|Tethren's Cap]], [[Universe/Items and Equipment/Armor/Tethren's Roots\|Tethren's Roots]], [[Universe/Items and Equipment/Armor/Tethren's Tunic\|Tethren's Tunic]]
+			[[Universe/Items and Equipment/Armor/Wyld Tethren's Hornhelm\|Wyld Tethren's Hornhelm]], [[Universe/Items and Equipment/Armor/Wyld Tethren Flamefoot\|Wyld Tethren Flamefoot]], [[Universe/Items and Equipment/Armor/Wyld Tethren Solist Shield\|Wyld Tethren Solist Shield]]
+			[[Universe/Items and Equipment/Armor/Oscelda's Diadem\|Oscelda's Diadem]], [[Universe/Items and Equipment/Armor/Oscelda's Featherbinds\|Oscelda's Featherbinds]], [[Universe/Items and Equipment/Armor/Oscelda's Blues\|Oscelda's Blues]]
+			[[Universe/Items and Equipment/Armor/Wyld Oscelda's Exhalt\|Wyld Oscelda's Exhalt]], [[Universe/Items and Equipment/Armor/Wyld Oscelda Pendelveil\|Wyld Oscelda Pendelveil]], [[Universe/Items and Equipment/Armor/Wyld Oscelda Beltolls\|Wyld Oscelda Beltolls]]
+			[[Universe/Items and Equipment/Armor/Tempest Visard\|Tempest Visard]], [[Universe/Items and Equipment/Armor/Tempest Braes\|Tempest Braes]], [[Universe/Items and Equipment/Armor/Tempest Leathers\|Tempest Leathers]]
+			[[Universe/Items and Equipment/Armor/Forgetfire Visard\|Forgetfire Visard]], [[Universe/Items and Equipment/Armor/Forgetfire Braes\|Forgetfire Braes]], [[Universe/Items and Equipment/Armor/Forgetfire Leathers\|Forgetfire Leathers]]
+			[[Universe/Items and Equipment/Armor/Helmless\|Helmless]], [[Universe/Items and Equipment/Armor/Brazen Lung\|Brazen Lung]], [[Universe/Items and Equipment/Armor/Forsaken Rags\|Forsaken Rags]], [[Universe/Items and Equipment/Armor/Laid Bare\|Laid Bare]]
+			[[Universe/Items and Equipment/Armor/Great Helm of the Fire King\|Great Helm of the Fire King]], [[Universe/Items and Equipment/Armor/Fire King's Kilt\|Fire King's Kilt]], [[Universe/Items and Equipment/Armor/Fire King's Plackart\|Fire King's Plackart]]
+			[[Universe/Items and Equipment/Armor/Regent's Veil\|Regent's Veil]], [[Universe/Items and Equipment/Armor/Regent's Drapery\|Regent's Drapery]], [[Universe/Items and Equipment/Armor/Regent's Shell\|Regent's Shell]]
+			[[Universe/Items and Equipment/Armor/Bascinet of The Mendicant King\|Bascinet of The Mendicant King]], [[Universe/Items and Equipment/Armor/Mendicant King's Sabatons\|Mendicant King's Sabatons]], [[Universe/Items and Equipment/Armor/Mendicant King's Suit of Rancor\|Mendicant King's Suit of Rancor]]
+			[[Universe/Items and Equipment/Armor/Circade's Helm of Deceit\|Circade's Helm of Deceit]], [[Universe/Items and Equipment/Armor/Circade's Greaves\|Circade's Greaves]], [[Universe/Items and Equipment/Armor/Circade's Gutguard\|Circade's Gutguard]]
+			[[Universe/Items and Equipment/Armor/Steelsinger's Circlet\|Steelsinger's Circlet]], [[Universe/Items and Equipment/Armor/Steelsinger's Shreds\|Steelsinger's Shreds]], [[Universe/Items and Equipment/Armor/Steelsinger's Stithywicks\|Steelsinger's Stithywicks]]
+			[[Universe/Items and Equipment/Armor/Thawtide Grimguise\|Thawtide Grimguise]], [[Universe/Items and Equipment/Armor/Thawtide Meltcap\|Thawtide Meltcap]], [[Universe/Items and Equipment/Armor/Thawtide Shingles\|Thawtide Shingles]], [[Universe/Items and Equipment/Armor/Thawtide Thermals\|Thawtide Thermals]]
+			[[Universe/Items and Equipment/Armor/Crone Cucurbita Mask\|Crone Cucurbita Mask]], [[Universe/Items and Equipment/Armor/Lil' Zook Mask\|Lil' Zook Mask]], [[Universe/Items and Equipment/Armor/Poppa Pepo Mask\|Poppa Pepo Mask]]
+		Weapons
+		Sidearms
+		Pacts
+		Resources
+	Songs
+		[[Universe/Songs/Rivers of Dendria\|Rivers of Dendria]]
