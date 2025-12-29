@@ -2,3 +2,4 @@
 {"dg-publish":true,"permalink":"/universe/characters/alca/gods-of-alca/alca/"}
 ---
 
+Mentions: [[Universe/Fables/1 - Warsongs\|1 - Warsongs]], [[Universe/Fables/2 - Rise, Envoy\|2 - Rise, Envoy]], [[Universe/Fables/4 - The Torment Stag\|4 - The Torment Stag]], [[Universe/Fables/5 - An Invitation\|5 - An Invitation]], [[Universe/Items and Equipment/Weapons/Blitzel\|Blitzel]], [[Universe/Items and Equipment/Armor/Brazen Lung\|Brazen Lung]], [[Universe/Items and Equipment/Sidearms/Esthelle\|Esthelle]], [[Universe/Items and Equipment/Armor/Forgetfire Leathers\|Forgetfire Leathers]], [[Universe/Items and Equipment/Armor/Forgetfire Visard\|Forgetfire Visard]], [[Universe/Items and Equipment/Weapons/Unsula\|Unsula]], [[Universe/Items and Equipment/Weapons/Vasp-IV\|Vasp-IV]]

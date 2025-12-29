@@ -34,7 +34,7 @@
 		The shrine seems displeased...
 	Offer a [[Sangelia\|Sangelia]] flower
 		The shrine accepts your offering.
-	Avakot: "Oi! Out ya burrows! Let's see some spirit for our new customa- i mean- guest! Ah- Ah- AAAA-pologies for the welcome committee 'ere. Alca's Children 'ave neva seen legs so big as yours. Puts the fear o' [[Universe/Characters/Alca/Fey and Fey-kin/Empress Alora\|The Empress]] in 'em. Ha! Speakin' of, I'll put you down for a donation...?"
+	[[Universe/Characters/Alca/Alca's Children/Sproutfolk/Avakot\|Avakot]]: "Oi! Out ya burrows! Let's see some spirit for our new customa- i mean- guest! Ah- Ah- AAAA-pologies for the welcome committee 'ere. Alca's Children 'ave neva seen legs so big as yours. Puts the fear o' [[Universe/Characters/Alca/Fey and Fey-kin/Empress Alora\|The Empress]] in 'em. Ha! Speakin' of, I'll put you down for a donation...?"
 
 [[Universe/Factions and Species/Kith of Kings\|Kith of Kings]]:
 	Note:
