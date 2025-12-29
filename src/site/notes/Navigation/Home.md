@@ -77,6 +77,7 @@ Enjoy my scuffed notes/personal Soulframe Wiki
 				- [[Universe/Factions and Species/Tempest\|Tempest]]
 					- [[Universe/Factions and Species/Tempest Extractors\|Tempest Extractors]]
 				- [[Universe/Factions and Species/Forgetfire\|Forgetfire]]
+			- [[Universe/The World of Ode/Gruul\|Gruul]] (?)
 		- [[Universe/Factions and Species/Cassid\|Cassid]]
 			- [[Universe/Characters/Cassid/Napo Agnes\|Napo Agnes]]
 	- The World of [[Universe/Characters/Alca/Gods of Alca/Alca\|Alca]]
@@ -120,7 +121,6 @@ Enjoy my scuffed notes/personal Soulframe Wiki
 			- [[Universe/The World of Ode/Sidea\|Sidea]]
 			- [[Universe/The World of Ode/Volhal\|Volhal]]
 			- [[Universe/The World of Ode/Kur\|Kur]]
-		- [[Universe/The World of Ode/Gruul\|Gruul]](?)
 	- Events and History
 		- [[Universe/Events/The Felling\|The Felling]]
 			- [[Universe/Events/The Fonnish Charge\|The Fonnish Charge]]
